@@ -26,15 +26,12 @@ I enjoy working on projects that solve real problems and can actually be used, n
 
 This GitHub serves as a curated portfolio of my best work for recruiters, hiring managers, and collaborators.
 
-Highlights
+## Highlights
 
-End-to-end projects: dataset curation → model training → evaluation → inference & deployment
-
-Hands-on experience in areas like segmentation, machine translation (NMT), and fraud detection
-
-Strong working knowledge of PyTorch, Transformers, and scikit-learn
-
-Experience with practical ML engineering tools: Docker, structured training pipelines, experiment tracking, and reproducible configurations
+- End-to-end projects: dataset curation → model training → evaluation → inference & deployment
+- Hands-on experience in areas like segmentation, machine translation (NMT), and fraud detection
+- Strong working knowledge of PyTorch, Transformers, and scikit-learn
+- Experience with practical ML engineering tools: Docker, structured training pipelines, experiment tracking, and reproducible           configurations
 
 More projects and updates coming soon 👇
 ---
